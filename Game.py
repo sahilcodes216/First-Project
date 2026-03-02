@@ -1,4 +1,4 @@
-# This is a Snake, Water and Gun Game python code. Run, Play and See how it's work.
+# This is a Snake, Water and Gun Game python code. Run, Play and See how it work.
 '''1 for snake
     -1 for water
     0 for gun'''
