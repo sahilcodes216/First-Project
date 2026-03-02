@@ -1,4 +1,7 @@
-# First-Project
-Project by Sahil Verma
+# I created a very basic Snake, Water and Gun game using Python
+# This is my first project
 <br> 
-Hello Guys, here I will give the codes of my projects.
+Enter the first letter of your choose to play with Computer
+<br> For Snake press 's'/'S'
+<br> For Water press 'w'/'W'
+<br> For Gun press 'g'/'G'
