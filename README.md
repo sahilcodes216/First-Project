@@ -5,8 +5,11 @@ Enter the First letter of your choose to play with Computer
 <br> For Snake press 's'/'S'
 <br> For Water press 'w'/'W'
 <br> For Gun press 'g'/'G'
+
+
 # 💫 About Me:
-I'm current a Student.<br>Studying at Amity University Jharkhand with <br>the course B.TECH CSE (AI & ML).
+I'm current a Student.
+<br>Studying at Amity University Jharkhand with <br>the course B.TECH CSE (AI & ML).
 
 
 ## 🌐 Socials:
