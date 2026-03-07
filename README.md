@@ -1,4 +1,4 @@
-# This is my first project
+# A little Game(P1)
 # I created a very basic Snake, Water and Gun game using Python
 <br> 
 Enter the First letter of your choose to play with Computer
@@ -7,7 +7,8 @@ Enter the First letter of your choose to play with Computer
 <br> For Gun press 'g'/'G'
 
 
-## And, another small code
+
+## Small Guess The Number code(P2)
 # I created a "guess the number" small game using Python.
 In this you have to guess the exact number, what that child think.
 The number is in between 1 to 100.
