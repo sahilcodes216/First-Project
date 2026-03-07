@@ -5,3 +5,12 @@ Enter the First letter of your choose to play with Computer
 <br> For Snake press 's'/'S'
 <br> For Water press 'w'/'W'
 <br> For Gun press 'g'/'G'
+
+
+## And, another small code
+# I created a "guess the number" small game using Python.
+In this you have to guess the exact number, what that child think.
+The number is in between 1 to 100.
+If you guess a number lower than the exact number, then you will get "Higher the Number" as a hint.
+And, if you guess a number higher than the exact number, then you will get "Lower the number" as a hint.
+This loop will repeat untill you not guess the exact number.
